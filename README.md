@@ -1,5 +1,5 @@
 # GameCube_CISO_Converter
-A Conversion script for Gamecube .ciso files. Bundles [Wiimms ISO Tools](https://github.com/Wiimm/wiimms-iso-tools) and [NKit](https://github.com/Nanook/NKit) to create a functional GameCube ISO.
+A Conversion script for GameCube .ciso files. Bundles [Wiimms ISO Tools](https://github.com/Wiimm/wiimms-iso-tools) and [NKit](https://github.com/Nanook/NKit) to create a functional GameCube ISO.
 
 ## Available Builds
 - Windows, Linux
