@@ -22,4 +22,6 @@ You must have mono installed for the NKit step to run successfully. You can inst
 4. `./ConvertCISO.sh`
 5. Once it finishes, your ISO will be in NKit/Processed/Gamecube.
 
+### NOTE: This can only handle one .ciso at a time in the CISO folder. Will look into batch conversion in later builds.
+
 If you run into any issues ping @nullptr33 on Discord.
