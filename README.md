@@ -17,7 +17,7 @@ You must have mono installed for the NKit step to run successfully. You can inst
 2. Run ConvertCISO.bat.
 3. Once it finishes, your ISO will be in NKit/Processed/Gamecube.
 
-## Usage (Linux)
+## Usage (Linux and MacOS)
 1. Put your GameCube .ciso file in the CISO folder.
 2. Open a terminal in the GC_CISO_Converter folder.
 3. Make the sh file executable: `chmod +x ConvertCISO.sh`
