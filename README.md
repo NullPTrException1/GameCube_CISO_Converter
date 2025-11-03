@@ -2,13 +2,15 @@
 A Conversion script for GameCube .ciso files. Bundles [Wiimms ISO Tools](https://github.com/Wiimm/wiimms-iso-tools) and [NKit](https://github.com/Nanook/NKit) to create a functional GameCube ISO.
 
 ## Available Builds
-- Windows, Linux
-- MacOS wit-tools is currently broken on Apple Silicon systems, so a Mac compatible build cannot be created yet.
+- Windows, Linux, MacOS
 
-## Requirements (Linux Only)
+## Requirements (Linux)
 You must have mono installed for the NKit step to run successfully. You can install this as follows:
 1. If you are on a distro that is not Arch-based, follow these instructions: https://www.mono-project.com/download/stable/#download-lin
 2. If you are on an Arch Linux distro, you can get mono from package manager: `sudo pacman -S mono`
+
+## Requirements (MacOS)
+You must have mono installed for the NKit step to run successfully. You can install this from here: https://www.mono-project.com/download/stable/#download-mac
 
 ## Usage (Windows)
 1. Put your GameCube .ciso file in the CISO folder.
